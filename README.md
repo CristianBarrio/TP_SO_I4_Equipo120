@@ -23,27 +23,6 @@ Interacción 4 (merge):
 1-GAMMA crea el repositorio llamado : “TP_SO_I4_Equipo_” con readme y un archivo
 llamado datos.txt, agrega de colaboradores a BETA y a ALFA.
 en el master crea un archivo index.html y estilos css y hace el push
-index.html:
- <!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title> UTN FRA</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="stylesheet" type="text/css" href="estilo.css">
-</head>
-<body>
-<h1>Controlde versiones</h1>
-</body>
-</html>
-
-estilo.css:
-* {
-margin:100px;
-}
-body {
-background:skyblue;
-}
 
 Crea las ramas : DESARROLLO y la rama TESTING en su repositorio local y hace el push
 para que queden todas las ramas en github
