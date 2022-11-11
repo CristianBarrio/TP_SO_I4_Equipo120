@@ -28,7 +28,7 @@ Crea las ramas : DESARROLLO y la rama TESTING en su repositorio local y hace el 
 para que queden todas las ramas en github
 
 2- ALFA descarga el repositorio EN FORMA LOCAL.
-3- BETA descarga el repositorio EN FORMA LOCAL.
+3- BETA descarga el repositorio EN FORMA LOCAL. 
 Todos verifican tener los mismos datos
 
 4- ALFA en TESTING agrega un favicon.. “favicon.ico” cambia el color de fondo a RED en
