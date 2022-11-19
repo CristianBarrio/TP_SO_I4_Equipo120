@@ -1,0 +1,20 @@
+Barrio Cristian
+Heredia Anibal
+
+A- ¿Qué color de fondo tiene su página en el TESTING?
+Blue.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO?
+Yellow.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Blue.
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+El de ALFA.
+E- ¿Algún integrante tuvo problemas al hacer el push?
+No, ambos pudimos realizar el push exitosamente.
+F- ¿Qué problemas surgieron?
+Al realizar merge entre las distintas ramas, ocasionalmente nos encontramos problemas de compatibilidad entre las mismas.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Si utilizamos el comando git push -f, se fuerza a reemplazar el historial de commits del repositorio remoto por nuestro repositorio local.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20 en DESARROLLO?
+Debo hacer el merge de las ramas main o Testing a la rama Desarrollo.
