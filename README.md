@@ -19,8 +19,7 @@ Requisitos:
 #Los alumnos tendrán un nick en nuestro sistema (ALFA , BETA y GAMMA).
 
 Interacción 4 (merge):
-1-GAMMA crea el repositorio llamado : “TP_SO_I4_Equipo_” con readme y un archivo llamado datos.txt, agrega de colaboradores a BETA y a ALFA.
-en el master crea un archivo index.html y estilos css y hace el push.
+1-GAMMA crea el repositorio llamado : “TP_SO_I4_Equipo_” con readme y un archivo llamado datos.txt, agrega de colaboradores a BETA y a ALFA. En el master crea un archivo index.html y estilos.css y hace el push.
 
 Crea las ramas: DESARROLLO y la rama TESTING en su repositorio local y hace el push para que queden todas las ramas en github.
 
