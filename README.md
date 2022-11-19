@@ -78,4 +78,3 @@ adoptada?
 H- ¿Qué sucede si cada uno utiliza el push -f?
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
-
