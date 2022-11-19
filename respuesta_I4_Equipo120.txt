@@ -1,7 +1,11 @@
 A- ¿Qué color de fondo tiene su página en el TESTING ?
+Blue.
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Yellow.
 C- ¿Qué color de fondo tiene su página en el MASTER?
+Blue.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+EL de ALFA.
 E- ¿Algún integrante tuvo problemas al hacer el push?
 F- ¿Qué problemas surgieron?
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución adoptada?
